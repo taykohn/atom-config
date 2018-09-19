@@ -1,0 +1,42 @@
+"*":
+  "autocomplete-plus":
+    fileBlacklist: [
+      "*.none"
+    ]
+    minimumWordLength: 2
+  core:
+    audioBeep: false
+    packagesWithKeymapsDisabled: [
+      "git-blame"
+    ]
+    telemetryConsent: "no"
+  "custom-title": {}
+  editor:
+    fontSize: 11
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "2e34d011-dcb9-41f7-95d6-8d5805afc063"
+  "git-blame":
+    columnWidth: 354
+  "git-diff":
+    showIconsInEditorGutter: true
+  github: {}
+  "language-babel": {}
+  "linter-pycodestyle":
+    maxLineLength: 100
+  "linter-pylint":
+    rcFile: "~/.pylintrc"
+  "linter-python":
+    enableDebug: true
+    ignoreCodes: "E501"
+    lintTrigger: "File modified"
+    withPep8: true
+  "linter-ui-default":
+    panelHeight: 67
+  "python-autopep8":
+    formatOnSave: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
