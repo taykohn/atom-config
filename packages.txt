@@ -1,4 +1,4 @@
-atom-reactjs-snippets
+atom-beautify
 autocomplete-paths
 busy-signal
 file-type-icons
@@ -6,7 +6,7 @@ full-path-in-title-bar
 git-blame
 git-history
 goto-definition
-indentations
+highlight-selected
 language-babel
 language-gherkin
 language-thrift
